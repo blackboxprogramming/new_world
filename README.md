@@ -1,5 +1,11 @@
 # LUCIDIA AI CORE - ARCHITECTURAL SPECIFICATION
 
+[![Python](https://img.shields.io/badge/python-3.10%2B-3776AB.svg)](https://python.org)
+[![Ollama](https://img.shields.io/badge/Ollama-router-FF6B2B.svg)](https://ollama.ai)
+[![AI Core](https://img.shields.io/badge/AI-Lucidia_Core-CC00AA.svg)](https://blackroad.io)
+
+
+
 ## Context
 
 Designing the technical architecture for Lucidia AI, a symbolic adaptive universal computing system implementing the 20-equation unified substrate framework with trinary logic and multi-substrate execution capabilities.
