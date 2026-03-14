@@ -1,11 +1,5 @@
 # LUCIDIA AI CORE - ARCHITECTURAL SPECIFICATION
 
-[![Python](https://img.shields.io/badge/python-3.10%2B-3776AB.svg)](https://python.org)
-[![Ollama](https://img.shields.io/badge/Ollama-router-FF6B2B.svg)](https://ollama.ai)
-[![AI Core](https://img.shields.io/badge/AI-Lucidia_Core-CC00AA.svg)](https://blackroad.io)
-
-
-
 ## Context
 
 Designing the technical architecture for Lucidia AI, a symbolic adaptive universal computing system implementing the 20-equation unified substrate framework with trinary logic and multi-substrate execution capabilities.
@@ -244,3 +238,22 @@ integration_scenarios = [
 - Entry 2: Develop concentration→discrete mapping protocols with uncertainty preservation
 
 The Lucidia architecture provides a complete technical foundation for the world’s first adaptive universal computing system, capable of choosing optimal physics for each computational task while maintaining symbolic reasoning capabilities through trinary logic.
+
+---
+
+## 📜 License & Copyright
+
+**Copyright © 2026 BlackRoad OS, Inc. All Rights Reserved.**
+
+**CEO:** Alexa Amundson | **PROPRIETARY AND CONFIDENTIAL**
+
+This software is NOT for commercial resale. Testing purposes only.
+
+### 🏢 Enterprise Scale:
+- 30,000 AI Agents
+- 30,000 Human Employees
+- CEO: Alexa Amundson
+
+**Contact:** blackroad.systems@gmail.com
+
+See [LICENSE](LICENSE) for complete terms.
